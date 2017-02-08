@@ -1,0 +1,203 @@
+[
+  {
+  "section": "Audio-Video-Analytics",
+  "apilist": [
+    {"title": "Detect Scene Changes",
+     "subtitle": "Detect scene changes in the input video."
+    },
+    {"title": "License Plate Recognition",
+     "subtitle": "Detects and reads license plates in a video file."
+    },
+	{"title": "Speech Recognition",
+     "subtitle": "Transcribes speech to text from a video or audio file."
+    }
+	]
+  },
+  {
+  "section": "Combinations",
+  "apilist": [
+    {"title": "Execute Combination",
+     "subtitle": "Executes a Combination."
+    }]
+  },
+  {
+  "section": "Connectors",
+  "apilist": [
+    {"title": "Cancel Connector Schedule",
+     "subtitle": "Cancels a connector schedule."
+    },
+	{"title": "Connector History",
+     "subtitle": "Returns connector status history information."
+    },
+	{"title": "Connector Status",
+     "subtitle": "Returns connector status information."
+    },
+	{"title": "Create Connector",
+     "subtitle": "Creates a connector."
+    },
+	{"title": "Delete Connector",
+     "subtitle": "Deletes a connector."
+    },
+	{"title": "Retrieve Config",
+     "subtitle": "Retrieves a connector configuration."
+    },
+	{"title": "Start Connector",
+     "subtitle": "Starts a connector."
+    },
+	{"title": "Stop Connector",
+     "subtitle": "Stops a running connector."
+    },
+	{"title": "Update Connector",
+     "subtitle": "Updates a connector."
+    }
+	]
+  },
+  {
+  "section": "Format Conversion",
+  "apilist": [
+    {"title": "	Expand Container",
+     "subtitle": "Extracts the contents of a container file."
+    },
+	{"title": "OCR Document",
+     "subtitle": "Extracts text from an image."
+    },
+	{"title": "Store Object",
+     "subtitle": "Stores a file."
+    },
+	{"title": "	Text Extraction",
+     "subtitle": "Extracts text from a file."
+    },
+	{"title": "View Document",
+     "subtitle": "Converts a document to HTML format for viewing in a Web browser."
+    }
+	]
+  },
+  {
+  "section": "Geo Analysis",
+  "apilist": [
+    {"title": "	Map Coordinates",
+     "subtitle": "Map a set of coordinates to a geographical region."
+    }
+	]
+  },
+  {
+  "section": "Graph Analysis",
+  "apilist": [
+    {"title": "	Get Common Neighbors",
+     "subtitle": "Finds the common neighbors of the nodes that you specify."
+    },
+	{"title": "Get Neighbors",
+     "subtitle": "Lists the neighbors of one or more specified nodes."
+    },
+	{"title": "Get Nodes",
+     "subtitle": "Lists the nodes in your graph."
+    },
+	{"title": "Get Subgraph",
+     "subtitle": "Returns a subgraph based on a set of nodes that you provide."
+    },
+	{"title": "Get Shortest Path",
+     "subtitle": "Finds the shortest path in the graph between two specified nodes."
+    },
+	{"title": "Suggest Links",
+     "subtitle": "Suggests nodes that a specified node is close to in the graph, but that it does not currently connect to.	"
+    },
+	{"title": "Summarize Graph",
+     "subtitle": "Returns a summary of what is in the graph."
+    }
+	]
+  },
+    {
+  "section": "Image Analysis",
+  "apilist": [
+    {"title": "	Barcode Recognition",
+     "subtitle": "Detects and decodes 1D and 2D barcodes in an image that you provide."
+    },
+	{"title": "	Face Detection",
+     "subtitle": "Detects faces in an image."
+    },
+	{"title": "Image Recognition",
+     "subtitle": "Recognizes a known set of corporate logos in an image that you provide."
+    },
+	{"title": "	OCR Document",
+     "subtitle": "Extracts text from an image."
+    }
+	]
+  },
+  {
+  "section": "Labs SandBox",
+  "apilist": [
+    {"title": "	Anomaly Detection",
+     "subtitle": "Detects anomalies inside a given set of data."
+    },
+	{"title": "	Trend Analysis",
+     "subtitle": "Discovers significant changes between two groups of records."
+    }
+	]
+  },
+  {
+  "section": "Policy",
+  "apilist": [
+    {"title": "	Create Classification",
+     "subtitle": "Creates objects that support document classification."
+    },
+	{"title": "Create Policy",
+     "subtitle": "Creates policies or policy types."
+    },
+	{"title": "	Delete Classification",
+     "subtitle": "Deletes objects that support document classification."
+    },
+	{"title": "Delete Policy",
+     "subtitle": "Deletes policies or policy types."
+    },
+	{"title": "Retrieve Classification",
+     "subtitle": "Retrieves objects that support document classification."
+    },
+	{"title": "Retrieve Policy",
+     "subtitle": "Retrieves policies or policy types."
+    },
+	{"title": "Update Classification",
+     "subtitle": "Updates objects that support document classification."
+    },
+	{"title": "	Update Policy",
+     "subtitle": "Updates policies or policy types."
+    }
+	]
+  },
+  {
+  "section": "Predictions",
+  "apilist": [
+    {"title": "Delete Prediction Model",
+     "subtitle": "Deletes a specified prediction model."
+    },
+	{"title": "Get Prediction Model Details",
+     "subtitle": "Returns details about trained prediction models."
+    },
+	{"title": "	Predict",
+     "subtitle": "Runs the prediction model on the provided data."
+    },
+	{"title": "	Recommend",
+     "subtitle": "Runs the prediction model on the provided data, and provides desired recommendations."
+    },
+	{"title": "Train Prediction",
+     "subtitle": "Trains a prediction model."
+    }
+	]
+  },
+  {
+  "section": "Query Profile and Manipulation",
+  "apilist": [
+    {"title": "Create Query Profile",
+     "subtitle": "Creates a query profile."
+    },
+	{"title": "Delete Query Profile",
+     "subtitle": "Deletes a query profile."
+    },
+	{"title": "Retrieve Query Profile",
+     "subtitle": "Retrieves a query profile."
+    },
+	{"title": "	Update Query Profile",
+     "subtitle": "Updates a query profile."
+    }
+	]
+  },
+]
